@@ -1,0 +1,103 @@
+{
+    "7daydata": {
+      "Math": {
+        "ShortName": "Grade 4 Mathematics",
+        "Subject": "Math",
+        "id_grade": "4",
+        "tobegraded": 1,
+        "lastlogin": "04/04/2022 10:48",
+        "partialProficient": 2,
+        "proficient": 5,
+        "advancedProficient": 1,
+        "untouchedLessons": 38,
+        "assignment_status": {
+          "IncompleteCount": 3,
+          "UnreadCount": 0,
+          "CompleteCount": 2
+        }
+      },
+      "ELA":{
+        "ShortName": "Grade 4 ELA",
+        "Subject": "ELA",
+        "id_grade": "4",
+        "tobegraded": 0,
+        "lastlogin": "01/04/2022 20:06",
+        "partialProficient": 5,
+        "proficient": 4,
+        "advancedProficient": 0,
+        "untouchedLessons": 27,
+        "assignment_status": {
+          "IncompleteCount": 0,
+          "UnreadCount": 0,
+          "CompleteCount": 9
+        }
+      }
+    },
+    "30daydata": {
+        "Math": {
+            "ShortName": "Grade 4 Mathematics",
+            "Subject": "Math",
+            "id_grade": "4",
+            "tobegraded": 4,
+            "lastlogin": "04/04/2022 10:48",
+            "partialProficient": 5,
+            "proficient": 6,
+            "advancedProficient": 3,
+            "untouchedLessons": 18,
+            "assignment_status": {
+              "IncompleteCount": 2,
+              "UnreadCount": 0,
+              "CompleteCount": 1
+            }
+        },
+        "ELA":{
+            "ShortName": "Grade 4 ELA",
+            "Subject": "ELA",
+            "id_grade": "4",
+            "tobegraded": 0,
+            "lastlogin": "01/04/2022 20:06",
+            "partialProficient": 7,
+            "proficient": 7,
+            "advancedProficient": 10,
+            "untouchedLessons": 10,
+            "assignment_status": {
+              "IncompleteCount": 2,
+              "UnreadCount": 0,
+              "CompleteCount": 7
+            }
+        }
+
+    },
+    "book-details":[
+        {
+            "Isbn": "9781940484785",
+            "Name": "SBAC Test Prep: Grade 6 English Language Arts Literacy (ELA) Common Core Practice Book and Full-length Online Assessments: Smarter Balanced Study Guide",
+            "Assessment": "SBAC",
+            "Grade": "6",
+            "Subject": "ELA",
+            "Price": "15.95",
+            "Book_Image": "https://m.media-amazon.com/images/I/510CRLSO95L._SL160_.jpg",
+            "Amazon_Link": "https://www.amazon.com/dp/1940484782?tag=ll-school-supplies-20&linkCode=osi&th=1&psc=1"
+            },
+            {
+            "Isbn": "9781940484808",
+            "Name": "SBAC Test Prep: Grade 8 English Language Arts Literacy (ELA) Common Core Practice Book and Full-length Online Assessments: Smarter Balanced Study Guide",
+            "Assessment": "SBAC",
+            "Grade": "8",
+            "Subject": "ELA",
+            "Price": "15.95",
+            "Book_Image": "https://m.media-amazon.com/images/I/51rgp+-eeJL._SL160_.jpg",
+            "Amazon_Link": "https://www.amazon.com/dp/1940484804?tag=ll-school-supplies-20&linkCode=osi&th=1&psc=1"
+            },
+            {
+            "Isbn": "9781940484839",
+            "Name": "SBAC Test Prep: 5th Grade Math Common Core Practice Book and Full-length Online Assessments: Smarter Balanced Study Guide With Performance Task (PT) and Computer Adaptive Testing (CAT)",
+            "Assessment": "SBAC",
+            "Grade": "5",
+            "Subject": "MATH",
+            "Price": "15.95",
+            "Book_Image": "https://m.media-amazon.com/images/I/51As5PHHMvL._SL160_.jpg",
+            "Amazon_Link": "https://www.amazon.com/dp/1940484839?tag=ll-school-supplies-20&linkCode=osi&th=1&psc=1"
+            }
+    ]
+  }
